@@ -7,4 +7,4 @@ The project focuses on leveraging modern technology to improve urban infrastruct
 
 ***Citizen-Centric Design:*** Ensuring that smart solutions are accessible and improve the daily lives of all residents.
 
-Created a professional visual deck using Canva/Microsoft PowerPoint to communicate complex ideas effectively.
+Created a professional visual deck using Canva &Microsoft PowerPoint to communicate complex ideas effectively.
